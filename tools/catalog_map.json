@@ -1,0 +1,672 @@
+[
+ {
+  "i": 1,
+  "file": "p01.jpg",
+  "name": "Kanchi Silk 'Mayil Koel'",
+  "type": "Pattu Pavadai",
+  "hex": "#2F4CB3",
+  "w": 683,
+  "h": 720,
+  "kb": 56.2
+ },
+ {
+  "i": 2,
+  "file": "p02.jpg",
+  "name": "Pachai Kili Set",
+  "type": "Pattu Pavadai",
+  "hex": "#DF6D1E",
+  "w": 540,
+  "h": 720,
+  "kb": 54.7
+ },
+ {
+  "i": 3,
+  "file": "p03.jpg",
+  "name": "Rani Sunset Pavadai",
+  "type": "Pattu Pavadai",
+  "hex": "#F2C230",
+  "w": 576,
+  "h": 720,
+  "kb": 72.7
+ },
+ {
+  "i": 4,
+  "file": "p04.jpg",
+  "name": "Riri Peacock Set",
+  "type": "Pattu Pavadai",
+  "hex": "#7A2E8E",
+  "w": 576,
+  "h": 720,
+  "kb": 64.9
+ },
+ {
+  "i": 5,
+  "file": "p05.jpg",
+  "name": "Mayil Kanavu Set",
+  "type": "Pattu Pavadai",
+  "hex": "#1E50A2",
+  "w": 540,
+  "h": 720,
+  "kb": 61.8
+ },
+ {
+  "i": 6,
+  "file": "p06.jpg",
+  "name": "Vaiyali Dress",
+  "type": "Silk Gown",
+  "hex": "#8E1F4B",
+  "w": 540,
+  "h": 720,
+  "kb": 62.4
+ },
+ {
+  "i": 7,
+  "file": "p07.jpg",
+  "name": "Thendral Silk Gown",
+  "type": "Silk Gown",
+  "hex": "#F2A7C3",
+  "w": 576,
+  "h": 720,
+  "kb": 49.8
+ },
+ {
+  "i": 8,
+  "file": "p08.jpg",
+  "name": "Veera Vanjikko Set",
+  "type": "Pattu Pavadai",
+  "hex": "#2BB5A0",
+  "w": 632,
+  "h": 720,
+  "kb": 51.2
+ },
+ {
+  "i": 9,
+  "file": "p09.jpg",
+  "name": "Blue Rose Pavadai",
+  "type": "Pattu Pavadai",
+  "hex": "#2795B8",
+  "w": 539,
+  "h": 720,
+  "kb": 74.0
+ },
+ {
+  "i": 10,
+  "file": "p10.jpg",
+  "name": "Aanchal Kali Set",
+  "type": "Pattu Pavadai",
+  "hex": "#DF6D1E",
+  "w": 576,
+  "h": 720,
+  "kb": 81.7
+ },
+ {
+  "i": 11,
+  "file": "p11.jpg",
+  "name": "Bharat Asset Silk Set",
+  "type": "Pattu Pavadai",
+  "hex": "#F2C230",
+  "w": 576,
+  "h": 720,
+  "kb": 58.8
+ },
+ {
+  "i": 12,
+  "file": "p12.jpg",
+  "name": "Ivory & Wine Pavadai",
+  "type": "Pattu Pavadai",
+  "hex": "#7B1E3C",
+  "w": 632,
+  "h": 720,
+  "kb": 57.4
+ },
+ {
+  "i": 13,
+  "file": "p13.jpg",
+  "name": "Mallika Rani Set",
+  "type": "Pattu Pavadai",
+  "hex": "#C2185B",
+  "w": 576,
+  "h": 720,
+  "kb": 64.3
+ },
+ {
+  "i": 14,
+  "file": "p14.jpg",
+  "name": "Parijat Vintage Set",
+  "type": "Pattu Pavadai",
+  "hex": "#48A9A6",
+  "w": 576,
+  "h": 720,
+  "kb": 68.2
+ },
+ {
+  "i": 15,
+  "file": "p15.jpg",
+  "name": "Coimbatore Cotton Set",
+  "type": "Cotton Set",
+  "hex": "#3BBFA5",
+  "w": 576,
+  "h": 720,
+  "kb": 68.0
+ },
+ {
+  "i": 16,
+  "file": "p16.jpg",
+  "name": "Anaya Tissue Set",
+  "type": "Pattu Pavadai",
+  "hex": "#E2571E",
+  "w": 669,
+  "h": 720,
+  "kb": 114.5
+ },
+ {
+  "i": 17,
+  "file": "p17.jpg",
+  "name": "Kanmani Pattu Set",
+  "type": "Pattu Pavadai",
+  "hex": "#2C6E49",
+  "w": 720,
+  "h": 625,
+  "kb": 83.0
+ },
+ {
+  "i": 18,
+  "file": "p18.jpg",
+  "name": "Radha Rukmani Set",
+  "type": "Pattu Pavadai",
+  "hex": "#F2C230",
+  "w": 576,
+  "h": 720,
+  "kb": 60.1
+ },
+ {
+  "i": 19,
+  "file": "p19.jpg",
+  "name": "Meenakshi Oonjal Set",
+  "type": "Pattu Pavadai",
+  "hex": "#C2185B",
+  "w": 720,
+  "h": 720,
+  "kb": 95.0
+ },
+ {
+  "i": 20,
+  "file": "p20.jpg",
+  "name": "Mullai Poo Set",
+  "type": "Pattu Pavadai",
+  "hex": "#C2185B",
+  "w": 576,
+  "h": 720,
+  "kb": 79.7
+ },
+ {
+  "i": 21,
+  "file": "p21.jpg",
+  "name": "Peacock Teal Pavadai",
+  "type": "Pattu Pavadai",
+  "hex": "#2BB5A0",
+  "w": 540,
+  "h": 720,
+  "kb": 42.8
+ },
+ {
+  "i": 22,
+  "file": "p22.jpg",
+  "name": "Anthuri Velvet Set",
+  "type": "Pattu Pavadai",
+  "hex": "#3E1C3C",
+  "w": 540,
+  "h": 720,
+  "kb": 69.7
+ },
+ {
+  "i": 23,
+  "file": "p23.jpg",
+  "name": "Rani Pink Silk Set",
+  "type": "Pattu Pavadai",
+  "hex": "#F06292",
+  "w": 576,
+  "h": 720,
+  "kb": 45.7
+ },
+ {
+  "i": 24,
+  "file": "p24.jpg",
+  "name": "Thamaraik Kili Set",
+  "type": "Pattu Pavadai",
+  "hex": "#D95F13",
+  "w": 540,
+  "h": 720,
+  "kb": 57.0
+ },
+ {
+  "i": 25,
+  "file": "p25.jpg",
+  "name": "Vaigai Silk Set",
+  "type": "Pattu Pavadai",
+  "hex": "#9CB4CC",
+  "w": 540,
+  "h": 720,
+  "kb": 65.1
+ },
+ {
+  "i": 26,
+  "file": "p26.jpg",
+  "name": "Mayil Kan Silks Set",
+  "type": "Pattu Pavadai",
+  "hex": "#C2185B",
+  "w": 540,
+  "h": 720,
+  "kb": 97.7
+ },
+ {
+  "i": 27,
+  "file": "p27.jpg",
+  "name": "Anjali Silk Set",
+  "type": "Pattu Pavadai",
+  "hex": "#5B2D8E",
+  "w": 539,
+  "h": 720,
+  "kb": 57.9
+ },
+ {
+  "i": 28,
+  "file": "p28.jpg",
+  "name": "Arasi Kottadi Set",
+  "type": "Pattu Pavadai",
+  "hex": "#7A2E8E",
+  "w": 440,
+  "h": 689,
+  "kb": 45.6
+ },
+ {
+  "i": 29,
+  "file": "p29.jpg",
+  "name": "Nalli Bhagalpuri Set",
+  "type": "Bhagalpuri Set",
+  "hex": "#C9163F",
+  "w": 540,
+  "h": 720,
+  "kb": 62.0
+ },
+ {
+  "i": 30,
+  "file": "p30.jpg",
+  "name": "Lotus Trail Pavadai",
+  "type": "Pattu Pavadai",
+  "hex": "#4A7FA5",
+  "w": 540,
+  "h": 720,
+  "kb": 67.7
+ },
+ {
+  "i": 31,
+  "file": "p31.jpg",
+  "name": "Pachai Veshthi Set",
+  "type": "Pattu Pavadai",
+  "hex": "#8DB600",
+  "w": 540,
+  "h": 720,
+  "kb": 43.8
+ },
+ {
+  "i": 32,
+  "file": "p32.jpg",
+  "name": "Kachhi Kundan Set",
+  "type": "Pattu Pavadai",
+  "hex": "#D95F13",
+  "w": 720,
+  "h": 720,
+  "kb": 71.9
+ },
+ {
+  "i": 33,
+  "file": "p33.jpg",
+  "name": "Pattu Langa Pastel Set",
+  "type": "Pattu Pavadai",
+  "hex": "#E8DCC8",
+  "w": 576,
+  "h": 720,
+  "kb": 62.1
+ },
+ {
+  "i": 34,
+  "file": "p34.jpg",
+  "name": "Thamarai Silks Set",
+  "type": "Pattu Pavadai",
+  "hex": "#8E1F4B",
+  "w": 540,
+  "h": 720,
+  "kb": 77.8
+ },
+ {
+  "i": 35,
+  "file": "p35.jpg",
+  "name": "Chinna Ponnu Gown",
+  "type": "Silk Gown",
+  "hex": "#F06292",
+  "w": 576,
+  "h": 720,
+  "kb": 49.7
+ },
+ {
+  "i": 36,
+  "file": "p36.jpg",
+  "name": "Sindhoori Kanchi Set",
+  "type": "Pattu Pavadai",
+  "hex": "#C9163F",
+  "w": 576,
+  "h": 720,
+  "kb": 68.5
+ },
+ {
+  "i": 37,
+  "file": "p37.jpg",
+  "name": "Maragatha Green Set",
+  "type": "Pattu Pavadai",
+  "hex": "#3E7C1F",
+  "w": 576,
+  "h": 720,
+  "kb": 89.4
+ },
+ {
+  "i": 38,
+  "file": "p38.jpg",
+  "name": "Nalli Silks Party Set",
+  "type": "Partywear Set",
+  "hex": "#3E1C3C",
+  "w": 486,
+  "h": 720,
+  "kb": 57.9
+ },
+ {
+  "i": 39,
+  "file": "p39.jpg",
+  "name": "Meenakshi Party Set",
+  "type": "Partywear Set",
+  "hex": "#C2185B",
+  "w": 540,
+  "h": 720,
+  "kb": 71.1
+ },
+ {
+  "i": 40,
+  "file": "p40.jpg",
+  "name": "Kutchi Emb Set",
+  "type": "Pattu Pavadai",
+  "hex": "#F06292",
+  "w": 576,
+  "h": 720,
+  "kb": 89.3
+ },
+ {
+  "i": 41,
+  "file": "p41.jpg",
+  "name": "Vaiyali Silk Set",
+  "type": "Pattu Pavadai",
+  "hex": "#DF6D1E",
+  "w": 540,
+  "h": 720,
+  "kb": 60.7
+ },
+ {
+  "i": 42,
+  "file": "p42.jpg",
+  "name": "Nizam Collection Set",
+  "type": "Pattu Pavadai",
+  "hex": "#2E8B57",
+  "w": 494,
+  "h": 720,
+  "kb": 82.1
+ },
+ {
+  "i": 43,
+  "file": "p43.jpg",
+  "name": "Vaiyali Designer Set",
+  "type": "Designer Set",
+  "hex": "#E91E63",
+  "w": 638,
+  "h": 720,
+  "kb": 83.3
+ },
+ {
+  "i": 44,
+  "file": "p44.jpg",
+  "name": "Radha Designer Set",
+  "type": "Designer Set",
+  "hex": "#F06292",
+  "w": 576,
+  "h": 720,
+  "kb": 54.6
+ },
+ {
+  "i": 45,
+  "file": "p45.jpg",
+  "name": "Karishma/Kanha Silk Set",
+  "type": "Pattu Pavadai",
+  "hex": "#1E50A2",
+  "w": 576,
+  "h": 720,
+  "kb": 81.1
+ },
+ {
+  "i": 46,
+  "file": "p46.jpg",
+  "name": "Peacock Blue Fancy Set",
+  "type": "Fancy Langa",
+  "hex": "#1E50A2",
+  "w": 465,
+  "h": 720,
+  "kb": 46.9
+ },
+ {
+  "i": 47,
+  "file": "p47.jpg",
+  "name": "Kanchi Pattu Pavadai",
+  "type": "Kanchi Pattu",
+  "hex": "#7A2E8E",
+  "w": 647,
+  "h": 720,
+  "kb": 85.4
+ },
+ {
+  "i": 48,
+  "file": "p48.jpg",
+  "name": "Radha Kanchi Set",
+  "type": "Kanchi Pattu",
+  "hex": "#5B2D8E",
+  "w": 656,
+  "h": 720,
+  "kb": 48.5
+ },
+ {
+  "i": 49,
+  "file": "p49.jpg",
+  "name": "Sakura Pearl Set",
+  "type": "Silk Gown",
+  "hex": "#F2C230",
+  "w": 540,
+  "h": 720,
+  "kb": 45.5
+ },
+ {
+  "i": 50,
+  "file": "p50.jpg",
+  "name": "Sakura Pearl Gown",
+  "type": "Silk Gown",
+  "hex": "#C9A227",
+  "w": 540,
+  "h": 720,
+  "kb": 52.0
+ },
+ {
+  "i": 51,
+  "file": "p51.jpg",
+  "name": "Noon Silk Set",
+  "type": "Silk Gown",
+  "hex": "#2BB5A0",
+  "w": 540,
+  "h": 720,
+  "kb": 49.5
+ },
+ {
+  "i": 52,
+  "file": "p52.jpg",
+  "name": "Sri Kanchan Silks Set",
+  "type": "Kanchi Pattu",
+  "hex": "#C2185B",
+  "w": 576,
+  "h": 720,
+  "kb": 67.8
+ },
+ {
+  "i": 53,
+  "file": "p53.jpg",
+  "name": "Maroon Party Gown",
+  "type": "Party Gown",
+  "hex": "#8E1F4B",
+  "w": 540,
+  "h": 720,
+  "kb": 64.6
+ },
+ {
+  "i": 54,
+  "file": "p54.jpg",
+  "name": "Neon & Navy Kali Set",
+  "type": "Kali Kutchi",
+  "hex": "#5B2D8E",
+  "w": 540,
+  "h": 720,
+  "kb": 77.3
+ },
+ {
+  "i": 55,
+  "file": "p55.jpg",
+  "name": "Roop Kathak Set",
+  "type": "Kali Kutchi",
+  "hex": "#C2185B",
+  "w": 567,
+  "h": 720,
+  "kb": 61.3
+ },
+ {
+  "i": 56,
+  "file": "p56.jpg",
+  "name": "Sri Kanchan Frocks Set",
+  "type": "Silk Frocks",
+  "hex": "#2795B8",
+  "w": 672,
+  "h": 720,
+  "kb": 69.5
+ },
+ {
+  "i": 57,
+  "file": "p57.jpg",
+  "name": "Sri Kanchan Silk Set",
+  "type": "Silk Frocks",
+  "hex": "#E91E63",
+  "w": 540,
+  "h": 720,
+  "kb": 49.0
+ },
+ {
+  "i": 58,
+  "file": "p58.jpg",
+  "name": "Valentina Lilac Set",
+  "type": "Party Gown",
+  "hex": "#7A2E8E",
+  "w": 540,
+  "h": 720,
+  "kb": 70.6
+ },
+ {
+  "i": 59,
+  "file": "p59.jpg",
+  "name": "Sri Kanchan Party Set",
+  "type": "Party Gown",
+  "hex": "#1E50A2",
+  "w": 541,
+  "h": 720,
+  "kb": 55.7
+ },
+ {
+  "i": 60,
+  "file": "p60.jpg",
+  "name": "Sai Meenakshi Silk Set",
+  "type": "Pattu Pavadai",
+  "hex": "#F2C230",
+  "w": 540,
+  "h": 720,
+  "kb": 45.4
+ },
+ {
+  "i": 61,
+  "file": "p61.jpg",
+  "name": "Kanchi Pattu Langa",
+  "type": "Kanchi Pattu",
+  "hex": "#C2185B",
+  "w": 540,
+  "h": 720,
+  "kb": 57.6
+ },
+ {
+  "i": 62,
+  "file": "p62.jpg",
+  "name": "Saree Style Pattu Langa",
+  "type": "Kanchi Pattu",
+  "hex": "#2C6E49",
+  "w": 576,
+  "h": 720,
+  "kb": 51.1
+ },
+ {
+  "i": 63,
+  "file": "p63.jpg",
+  "name": "RadhaKalyanam Silk Set",
+  "type": "Pattu Pavadai",
+  "hex": "#C2185B",
+  "w": 540,
+  "h": 720,
+  "kb": 61.5
+ },
+ {
+  "i": 64,
+  "file": "p64.jpg",
+  "name": "Pink Chanderi Set",
+  "type": "Chanderi Set",
+  "hex": "#F2C230",
+  "w": 596,
+  "h": 720,
+  "kb": 84.9
+ },
+ {
+  "i": 65,
+  "file": "p65.jpg",
+  "name": "Pure Zari Pattu Pavadai",
+  "type": "Chanderi Set",
+  "hex": "#2795B8",
+  "w": 540,
+  "h": 720,
+  "kb": 58.6
+ },
+ {
+  "i": 66,
+  "file": "p66.jpg",
+  "name": "Mayil Kanchi Border",
+  "type": "Kanchi Pattu",
+  "hex": "#5B2D8E",
+  "w": 576,
+  "h": 720,
+  "kb": 69.9
+ },
+ {
+  "i": 67,
+  "file": "p67.jpg",
+  "name": "Peacock & Mint Frock",
+  "type": "Silk Frocks",
+  "hex": "#2BB5A0",
+  "w": 576,
+  "h": 720,
+  "kb": 69.9
+ }
+]
