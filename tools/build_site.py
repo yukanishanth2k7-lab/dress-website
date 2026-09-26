@@ -510,7 +510,12 @@ html = (HTML
         .replace("__CARDS__", "")
         .replace("__NP__", str(len(PRODUCTS))))
 
-out = os.path.join(ROOT, "ankita-sharma-collection.html")
+out = os.path.join(ROOT, "index.html")
 open(out, "w", encoding="utf-8").write(html)
 size = os.path.getsize(out)
-print(f"ankita-sharma-collection.html  ->  {size/1024/1024:.2f} MB  ({len(PRODUCTS)} products, {len(IMGS_JSON)} full imgs)  [v2.3]")
+print(f"index.html  ->  {size/1024/1024:.2f} MB  ({len(PRODUCTS)} products, {len(IMGS_JSON)} full imgs)  [v2.3]")
+
+# every host serves index.html for "/" — keep the old filename working too
+import shutil
+shutil.copyfile(out, os.path.join(ROOT, "ankita-sharma-collection.html"))
+print("(also wrote ankita-sharma-collection.html as an identical copy)")
